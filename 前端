@@ -1,1 +1,12 @@
-写CSS规范的时候，一味的追求大神，但是看了这么多还是困在原地，所以还是一步一个脚印的走下去好一点
+写一个小竖线的用,<i class=""><i>{
+  . {
+    float: left;
+    overflow: hidden;
+    margin: 11px 5px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+  }
+
+
+}
